@@ -4,6 +4,6 @@
  - 1 tablete de caldo de galinha
  - 3 colheres de sopa de óleo 
 ###Modo de preparo 
-1. Red 
-2. Green 
-3. Purple 
+- 1. Red 
+- 2. Green 
+- 3. Purple 
